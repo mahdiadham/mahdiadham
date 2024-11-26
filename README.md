@@ -5,20 +5,20 @@
     <hr />
 </div>
 
-<p style="font-size: 1.5rem;">
-    ✅ Front-End Developer with proven experience at Makin in helping
+<p style="font-size: 2rem;">
+    ✅ Front-end developer with proven experience at Makin in helping
     companies create and maintain a better code base for reusability.
-    Passionate about learning and development with a desire to apply skills
+    Passionate about learning and development and want to apply skills
     on a larger development team. Eager to tackle more complex problems
     and continue. to find ways to maximize user efficiency.
     Being an expert in languages such as HTML, CSS, JavaScript, ReactJS,
-    NextJS, Typescript, familiar with Redux and designing responsive
+    NextJS, Typescript, and familiarity with Redux and designing responsive
     websites.
 </p>
 
 <br />
 
-<h4>. Bachelor of in Computer Engineering in Azad University</h4>
+<h4>. Bachelor of in Computer Engineering at Azad University</h4>
 <h4>. 3 years of experience in web development</h4>
 <h4>. Getting to know the principles of clean coding and commenting</h4>
 <h4>. Ability to work with cross-functional teams incl</h4>
