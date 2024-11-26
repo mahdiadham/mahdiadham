@@ -2,10 +2,11 @@
     <h1 align="center">Who am I ?<h1>
     <img src="./Images/repository.svg" alt="github" align="center">
     <h1 align=center>Hi Everyone !</h1>
+    <hr />
 </div>
 
 <p>
-    ✔️ Front-End Developer with proven experience at Makin in helping
+    ✔✅ Front-End Developer with proven experience at Makin in helping
     companies create and maintain a better code base for reusability.
     Passionate about learning and development with a desire to apply skills
     on a larger development team. Eager to tackle more complex problems
@@ -15,8 +16,9 @@
     websites.
 </p>
 
-<hr>
+<br />
 
+<h4>. Bachelor of in Computer Engineering in Azad University</h4>
 <h4>. 3 years of experience in web development</h4>
 <h4>. Getting to know the principles of clean coding and commenting</h4>
 <h4>. Ability to work with cross-functional teams incl</h4>
@@ -27,77 +29,17 @@
 
 <hr>
 
-<h2>🛠️ My Ability and Tools :</h2>
+<h2>My Skills and Tools :</h2>
 
 <br>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,nextjs,redux,ts,git,linux,vscode&perline=6)](https://skillicons.dev)
 
 <hr>
 
-<h2>🎓🧑🏻‍💻 The Languages and Abilities I know or am learning are :<h2>
+<h2>How to reach me :</h2>
 
-<h3>🌐 HTML 5</h3>
-
-<h3>🌐 CSS 3</h3>
-
-<h3>🌐 Tailwind</h3>
-
-<h3>🌐 bootstrap</h3>
-  
-<h3>🌐 FlexBox</h3>
-  
-<h3>🌐 CSS Grid</h3>
-
-<h3>🌐 JavaScript</h3>
-
-<h3>🌐 Regex</h3>
-
-<h3>🌐 PHP</h3>
-
-<h3>🌐 Python</h3>
-
-<h3>🌐 Git</h3>
-
-<h3>🌐 NPM</h3>
-
-<h3>🌐 NodeJS</h3>
-
-<h3>🌐 VueJS</h3>
-
-<h3>🌐 JQuery</h3>
-
-<h3>🌐 Kali Linux</h3>
-
-<h3>🌐 Adobe Photoshop</h3>
-
-<h3>🌐 Adobe Premiere Pro</h3>
-
-<hr>
-
-<h2>📧 How to reach me :</h2>
-
-<a href="https://www.instagram.com/mahdi.a3301" target="_blank"><img src="https://github.com/whoami3301404/whoami3301404/blob/main/Files/3721672-instagram_108066.png?raw=true" alt="instagram" width="32px" height="32px"></a>
-<a href="https://youtube.com/@whoami_3301" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/youtube_logo_icon_168737.png?raw=true" alt="youtube" width="32px" height="32px"></a>
-<a href="https://t.me/dradham3301" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/telegram_macos_bigsur_icon_189662.png?raw=true" alt="youtube" width="32px" height="32px"></a>
-<a href="https://codepen.io/cicada3301110" target="_blank"><img src="https://github.com/Cicada3301110/Cicada3301110/blob/main/Files/social_media_codepen_code_logo_icon_187296.png?raw=true" alt="youtube" width="32px" height="32px"></a>
+<a href="https://www.instagram.com/mahdi.a3301" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/mahdiadham3301" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
+<a href="https://t.me/drwhoami404" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" /></a>
+<a href="mailto:m.adham3301@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
