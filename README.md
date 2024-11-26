@@ -6,7 +6,7 @@
 </div>
 
 <h3>
-    ✅ Front-end developer with proven experience at Makin in helping
+    ✅ I'm a Front-end developer with proven experience at Makin in helping
     companies create and maintain a better code base for reusability.
     Passionate about learning and development and want to apply skills
     on a larger development team. Eager to tackle more complex problems
