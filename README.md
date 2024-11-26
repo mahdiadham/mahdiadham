@@ -41,5 +41,5 @@
 
 <a href="https://www.instagram.com/mahdi.a3301" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://linkedin.com/in/mahdiadham3301" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
-<a href="https://t.me/drwhoami404" target="_blank" style="width: 48px; height:48px;"><img src="./Images/telegram.png" alt="Telegram" style="border-radius: 10px;" /></a>
+<a href="https://t.me/drwhoami404" target="_blank"><img src="./Images/telegram.png" alt="Telegram" /></a>
 <a href="mailto:m.adham3301@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
