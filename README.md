@@ -31,9 +31,9 @@
 
 <h2>My Skills and Tools :</h2>
 
-<br>
+<be>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,nextjs,redux,ts,git,linux,vscode&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,nextjs,redux,ts,git,linux,vscode&perline=6" />
 
 <hr>
 
@@ -41,5 +41,5 @@
 
 <a href="https://www.instagram.com/mahdi.a3301" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://linkedin.com/in/mahdiadham3301" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
-<a href="https://t.me/drwhoami404" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" /></a>
+<a href="https://t.me/drwhoami404" target="_blank"><img src="./Images/telegram.png" alt="Telegram" style="width: 48px; height: 48px; border-radius: 10px;" /></a>
 <a href="mailto:m.adham3301@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
