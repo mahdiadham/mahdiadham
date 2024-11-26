@@ -5,7 +5,7 @@
     <hr />
 </div>
 
-<p style="font-size: 2rem;">
+<p style="font-size: 15px;">
     ✅ Front-end developer with proven experience at Makin in helping
     companies create and maintain a better code base for reusability.
     Passionate about learning and development and want to apply skills
