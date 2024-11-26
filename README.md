@@ -6,7 +6,7 @@
 </div>
 
 <p>
-    ✔✅ Front-End Developer with proven experience at Makin in helping
+    ✅ Front-End Developer with proven experience at Makin in helping
     companies create and maintain a better code base for reusability.
     Passionate about learning and development with a desire to apply skills
     on a larger development team. Eager to tackle more complex problems
