@@ -1,13 +1,19 @@
 <div align="center">
-    <h1 align="center">⁉️ Who am I ? 🤔🧑🏻‍💻<h1>
+    <h1 align="center">Who am I ?<h1>
     <img src="./Images/repository.svg" alt="github" align="center">
-    <h1 align=center>⭐ Hi Everyone !👋</h1>
+    <h1 align=center>Hi Everyone !</h1>
 </div>
 
-<h3 >✔️ I'm a Front-End Developer 🧑🏻‍💻🌍</h3>
-<h3 >✔️ And I have a little expertise in Backend-End and Artificial Intelligence 🧑🏻‍💻🌐</h3>
-<h3 >✔️ I am also interested in Artificial Intelligence 🧠🤖</h3>
-<h3 >✔️ I've been working in this field since 2019 📆🧑🏻‍💻</h3>
+<p>
+    Front-End Developer with proven experience at Makin in helping
+    companies create and maintain a better code base for reusability.
+    Passionate about learning and development with a desire to apply skills
+    on a larger development team. Eager to tackle more complex problems
+    and continue. to find ways to maximize user efficiency.
+    Being an expert in languages such as HTML, CSS, JavaScript, ReactJS,
+    NextJS, Typescript, familiar with Redux and designing responsive
+    websites.
+</p>
 
 <hr>
 
