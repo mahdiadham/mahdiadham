@@ -5,7 +5,7 @@
 </div>
 
 <p>
-    Front-End Developer with proven experience at Makin in helping
+    ✔️ Front-End Developer with proven experience at Makin in helping
     companies create and maintain a better code base for reusability.
     Passionate about learning and development with a desire to apply skills
     on a larger development team. Eager to tackle more complex problems
@@ -16,12 +16,6 @@
 </p>
 
 <hr>
-
-<h4>🌐 Web Developer</h4>
-
-<h4>✔️ Interested in web and website development</h4>
-
-<h4>It was the middle of the summer of 2019 when I started my work with Python, but after a year or two, I realized that my talent is in the field of web and website design. So to myself, I trusted and entered this field, and thank God I have made good progress in this field and I have reached the point where I am now. I have always adhered to one principle and that principle is that there is never an end point in learning! So keeping the information updated is one of my main duties as a programmer.</h4>
 
 <h4>. 3 years of experience in web development</h4>
 <h4>. Getting to know the principles of clean coding and commenting</h4>
