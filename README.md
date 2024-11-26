@@ -5,7 +5,7 @@
     <hr />
 </div>
 
-<p style="font-size: 15px;">
+<h3>
     ✅ Front-end developer with proven experience at Makin in helping
     companies create and maintain a better code base for reusability.
     Passionate about learning and development and want to apply skills
@@ -14,7 +14,7 @@
     Being an expert in languages such as HTML, CSS, JavaScript, ReactJS,
     NextJS, Typescript, and familiarity with Redux and designing responsive
     websites.
-</p>
+</h3>
 
 <br />
 
