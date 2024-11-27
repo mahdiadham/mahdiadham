@@ -2,7 +2,6 @@
     <h1 align="center">Who am I ?<h1>
     <img src="./Images/repository.svg" alt="github" align="center">
     <h1 align=center>Hi Everyone !</h1>
-    <hr />
 </div>
 
 <h3>
