@@ -30,8 +30,6 @@
 
 <h2>My Skills and Tools :</h2>
 
-<be>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,nextjs,redux,ts,git,linux,vscode&perline=6" />
 
 <hr>
