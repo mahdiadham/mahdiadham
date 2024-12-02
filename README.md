@@ -6,7 +6,7 @@
 
 ### . I'm a Front-end developer with proven experience at Makin in helping companies create and maintain a
 
-### better code base for reusability.
+###  better code base for reusability.
 
 ### . Passionate about learning and development and want to apply skills on a larger development team.
 
@@ -14,7 +14,7 @@
 
 ### . Being an expert in languages such as HTML, CSS, JavaScript, ReactJS, NextJS, Typescript, and familiarity
 
-### with Redux and designing responsive websites.
+###  with Redux and designing responsive websites.
 
 <br />
 
