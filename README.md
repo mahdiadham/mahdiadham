@@ -1,10 +1,17 @@
+<style>
+    .intro {
+        font-size: 32px;
+        line-height: 1.5;
+    }
+</style>
+
 <div align="center">
     <h1 align="center">Who am I ?<h1>
     <img src="./Images/repository.svg" alt="github" align="center">
     <h1 align=center>Hi Everyone !</h1>
 </div>
 
-<p style="line-height: 1.5; font-size: 32px;"> ✅ I'm a Front-end developer with proven experience at Makin in helping companies create and maintain a better code base for reusability. Passionate about learning and development and want to apply skills on a larger development team. Eager to tackle more complex problems and continue. to find ways to maximize user efficiency. Being an expert in languages such as HTML, CSS, JavaScript, ReactJS, NextJS, Typescript, and familiarity with Redux and designing responsive websites.</p>
+<p class="intro"> ✅ I'm a Front-end developer with proven experience at Makin in helping companies create and maintain a better code base for reusability. Passionate about learning and development and want to apply skills on a larger development team. Eager to tackle more complex problems and continue. to find ways to maximize user efficiency. Being an expert in languages such as HTML, CSS, JavaScript, ReactJS, NextJS, Typescript, and familiarity with Redux and designing responsive websites.</p>
 
 <br />
 
