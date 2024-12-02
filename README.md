@@ -4,7 +4,7 @@
     <h1 align=center>Hi Everyone !</h1>
 </div>
 
-### I'm a Front-end developer with proven experience at Makin in helping companies create and maintain a
+### ✅ I'm a Front-end developer with proven experience at Makin in helping companies create and maintain a
 
 ### better code base for reusability.
 
