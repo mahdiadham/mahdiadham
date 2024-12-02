@@ -4,17 +4,8 @@
     <h1 align=center>Hi Everyone !</h1>
 </div>
 
-### . I'm a Front-end developer with proven experience at Makin in helping companies create and maintain a
-
-### better code base for reusability.
-
-### . Passionate about learning and development and want to apply skills on a larger development team.
-
-### . Eager to tackle more complex problems and find ways to maximize user efficiency.
-
-### . Being an expert in languages such as HTML, CSS, JavaScript, ReactJS, NextJS, Typescript, and familiarity
-
-### with Redux and designing responsive websites.
+### . I am a front-end developer with a strong track record at Makin, where I have successfully contributed to creating and maintaining scalable, reusable codebases that drive efficiency and innovation. With a deep passion for learning and development, I am eager to leverage my expertise within a larger, collaborative development team.
+I thrive on solving complex challenges and crafting user-focused solutions to optimize efficiency and engagement. My technical proficiency spans core front-end technologies, including HTML, CSS, JavaScript, ReactJS, NextJS, and TypeScript, alongside hands-on experience with Redux for state management. Additionally, I specialize in designing intuitive, responsive web interfaces that deliver exceptional user experiences.
 
 <br />
 
