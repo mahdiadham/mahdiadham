@@ -4,8 +4,18 @@
     <h1 align=center>Hi Everyone !</h1>
 </div>
 
-<p>. I'm a front-end developer with a strong track record at Makin, where I have successfully contributed to creating and maintaining scalable, reusable codebases that drive efficiency and innovation. With a deep passion for learning and development, I am eager to leverage my expertise within a larger, collaborative development team.
-I thrive on solving complex challenges and crafting user-focused solutions to optimize efficiency and engagement. My technical proficiency spans core front-end technologies, including HTML, CSS, JavaScript, ReactJS, NextJS, and TypeScript, alongside hands-on experience with Redux for state management. Additionally, I specialize in designing intuitive, responsive web interfaces that deliver exceptional user experiences.</p>
+<p>. I'm a front-end developer with a strong track record at Makin, where I
+have successfully contributed to creating and maintaining scalable,
+reusable codebases that drive efficiency and innovation. With a deep
+passion for learning and development, I am eager to leverage my
+expertise within a larger, collaborative development team.
+I thrive on solving complex challenges and crafting user-focused
+solutions to optimize efficiency and engagement. My technical
+proficiency spans core front-end technologies, including HTML, CSS,
+JavaScript, ReactJS, NextJS, and TypeScript, alongside hands-on
+experience with Redux for state management. Additionally, I specialize in
+designing intuitive, responsive web interfaces that deliver exceptional
+user experiences.</p>
 
 <br />
 
