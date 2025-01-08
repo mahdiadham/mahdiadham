@@ -12,7 +12,7 @@ expertise within a larger, collaborative development team.
 I thrive on solving complex challenges and crafting user-focused
 solutions to optimize efficiency and engagement. My technical
 proficiency spans core front-end technologies, including HTML, CSS,
-JavaScript, ReactJS, NextJS, and TypeScript, alongside hands-on
+JavaScript, ReactJS, and NextJS, alongside hands-on
 experience with Redux for state management. Additionally, I specialize in
 designing intuitive, responsive web interfaces that deliver exceptional
 user experiences.</p>
@@ -32,7 +32,7 @@ user experiences.</p>
 
 <h2>My Skills and Tools :</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,nextjs,redux,ts,git,linux,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,nextjs,redux,bash,git,kali,vscode&perline=6" />
 
 <hr />
 
