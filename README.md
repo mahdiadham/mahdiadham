@@ -32,7 +32,7 @@ user experiences.</p>
 
 <h2>My Skills and Tools :</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,nextjs,redux,bash,git,kali,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,nextjs,redux,bash,git,materialui,vscode&perline=6" />
 
 <hr />
 
