@@ -4,13 +4,12 @@
     <h1 align=center>Hi Everyone !</h1>
 </div>
 
-<p>. I'm a front-end engineer with a strong track record. With a deep passion for learning and development, I am eager to leverage my expertise within a larger, collaborative development team.
-I thrive on solving complex challenges and crafting user-focused solutions to optimize efficiency and engagement. My technical proficiency spans core front-end technologies, including HTML, CSS, JavaScript, ReactJS, and NextJS, alongside hands-on experience with Redux for state management. Additionally, I specialize in designing intuitive, responsive web interfaces that deliver exceptional user experiences.</p>
+<p>I am a MERN Stack Developer specializing in designing and developing modern, scalable, and high-performance web applications. With expertise in React js Node.js, Express, and MongoDB and a deep understanding of client-side and server-side architecture, I deliver efficient and reliable technical solutions. My experience working in cohesive and dynamic teams has enabled me to drive projects with a strong focus on quality, performance, and user experience. I am committed to following Clean Code principles, building modular and maintainable structures, and implementing industry best practices in all software development endeavors. Continuous learning and leveraging the latest technologies, particularly within the JavaScript ecosystem, are integral parts of my professional approach. My goal is to create solutions that, in addition to technical excellence, deliver real value to both users and organizations.</p>
 
 <br />
 
 <h4>. Bachelor of in Computer Engineering at Azad University</h4>
-<h4>. 5 years of experience in web development</h4>
+<h4>. 4 years of experience in web development</h4>
 <h4>. Getting to know the principles of clean coding and commenting</h4>
 <h4>. Ability to work with cross-functional teams incl</h4>
 <h4>. Designers, programmers, and project managers</h4>
@@ -22,7 +21,7 @@ I thrive on solving complex challenges and crafting user-focused solutions to op
 
 <h2>My Skills and Tools :</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,nextjs,redux,bash,git,materialui,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=tailwindcss,react,nextjs,redux,nodejs,express,mongoddb,git,materialui,vscode&perline=6" />
 
 <hr />
 
