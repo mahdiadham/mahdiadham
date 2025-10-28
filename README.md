@@ -21,7 +21,7 @@
 
 <h2>My Skills and Tools :</h2>
 
-<img src="https://skillicons.dev/icons?i=tailwindcss,react,nextjs,redux,nodejs,express,mongoddb,git,materialui,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=tailwindcss,react,nextjs,redux,nodejs,express,mongodb,git,materialui,vscode&perline=5" />
 
 <hr />
 
