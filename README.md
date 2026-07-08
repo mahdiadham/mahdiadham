@@ -21,7 +21,7 @@
 
 <h2>My Skills and Tools :</h2>
 
-<img src="https://skillicons.dev/icons?i=tailwindcss,react,nextjs,redux,nodejs,express,mongodb,git,materialui,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwindcss,nextjs,mysql,redux,nodejs,express,mongodb,git,materialui&perline=5" />
 
 <hr />
 
@@ -29,5 +29,4 @@
 
 <a href="https://www.instagram.com/mahdi.a3301" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://linkedin.com/in/mahdiadham3301" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
-<a href="https://t.me/mahdi4043301" target="_blank" style="display: block; width: 48px; height: 48px;"><img src="./Images/telegram.png" alt="Telegram" /></a>
 <a href="mailto:m.adham3301@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
